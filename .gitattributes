@@ -1,0 +1,4 @@
+# ignore html files
+static/*.html linguist-vendored
+static/**/*.html linguist-vendored
+*.sh linguist-vendored
